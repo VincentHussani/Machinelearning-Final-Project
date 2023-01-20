@@ -17,4 +17,5 @@ Make sure to have pickle, tensorflow, and other libraries used in either file in
 
 The datasets can be found on:
 https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format (download "A-Z handwritten data.csv")
+
 https://www.kaggle.com/datasets/crawford/emnist?resource=download&select=emnist-balanced-test.csv (download "emnist-byclass train.csv" and rename it to "emnist-byclass.csv")
