@@ -1,10 +1,14 @@
 # Machinelearning-Final-Project
 The results of the final project in DV2599
 
-The notebook and DrawAndPredictApp.py should be put in the same folder. Create two folders where those files are called "processing" and "models". 
-Both of those folders will be included in the zip with some example models and content. 
-Processing shows different stages of processing the letters on the drawingboard. 
-Pressing recognise will generate new pictures from the drawing board and put them in processing.
+DrawAndPredictApp.py should be put in the same folder as the models folder.
+
+- models contains a set of example models for the drawing app
+
+* Processing shows different stages of processing the letters on the drawingboard. 
+
+* Pressing recognise will generate new pictures from the drawing board and put them in processing.
+
 
 naming convention: 
 mod = cnn
